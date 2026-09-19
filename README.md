@@ -126,7 +126,7 @@ fetched automatically for the tests (pass `-DGCRA_IPC_BUILD_TESTS=OFF` to skip).
 
 The normative specification — formulas, the golden schedule table, the
 requirements/axioms/tests/justifications ledger — lives in
-[docs/SPEC.md](docs/SPEC.md).
+[specs/gcra_ipc.md](specs/gcra_ipc.md).
 
 ## License
 
